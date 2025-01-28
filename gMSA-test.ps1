@@ -1,4 +1,4 @@
-
+#  Thomas Verheyden - 09/04/24
 <#
 Wait for new Kerberos ticket to be issued. Kerberos tickets are normally valid for 10 hours.
 
